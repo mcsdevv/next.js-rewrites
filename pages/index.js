@@ -9,7 +9,7 @@ const Index = () => (
       <h1>Rewrites with Next.js</h1>
       <hr className={styles.hr} />
       <p>
-        The links below are{' '}
+        The links below are all{' '}
         <a href="https://nextjs.org/docs/api-reference/next.config.js/rewrites">
           custom <Code>rewrites</Code>
         </a>{' '}
